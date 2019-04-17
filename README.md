@@ -1,0 +1,5 @@
+# authserver-basic
+
+```
+oauth/token
+```
